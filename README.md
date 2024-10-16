@@ -6,3 +6,4 @@ This project is designed to revolutionize the hiring process by automating the t
 The tool’s flexibility allows HR teams to fine-tune the ranking algorithm according to their hiring criteria, ensuring that the best candidates are prioritized. With its ability to handle large datasets and process thousands of resumes within minutes, it greatly reduces manual effort, making recruitment faster, more efficient, and less prone to bias.
 
 This solution is built using Python’s robust ecosystem: Pandas and NumPy for data manipulation, spaCy and NLTK for advanced text processing, and scikit-learn for machine learning classification and ranking. Additionally, it features a user-friendly interface and can be deployed as a web service using Flask for seamless integration with existing HR systems.
+📊 Tech Stack: Python, Pandas, NumPy, spaCy, NLTK, scikit-learn, Flask
